@@ -1,0 +1,51 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color:rgb(183, 236, 246);
+    padding: 10px;
+    color:darkblue;
+}
+
+header a{
+    text-decoration: none;
+    background-color:white;
+    padding:2px;
+    border-radius:7px;
+
+}
+
+h1{
+    background-color:rgb(155, 228, 246);
+    text-align:center;
+    color: darkblue;
+    border-radius: 7px;
+
+}
+
+footer p{
+    background-color:rgb(54, 249, 32);
+    padding:2px;
+
+}
+
+nav{
+   border:3px solid lightblue;
+   padding:3px 
+}
+
+nav a{
+   text-decoration:none;
+   margin:20px; 
+}
+
+
+.algo{
+    background-color:rgb(52, 237, 27);
+    padding:10px;
+}
+
+h2{
+    color:blue;
+}
